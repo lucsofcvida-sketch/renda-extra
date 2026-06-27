@@ -1,0 +1,6 @@
+{
+  "name": "Método Renda Extra",
+  "description": "Página de vendas de alta conversão para método de renda extra online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
